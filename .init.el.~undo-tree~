@@ -1,0 +1,74 @@
+(undo-tree-save-format-version . 1)
+"ea680c4ee1aa230d99592f5aef8dd6976951758f"
+[nil nil nil nil (25309 64330 428934 628000) 0 nil]
+([nil nil ((954 . 1193) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -954) (951 . 953) (366 . 369) (#("
+" 0 1 (fontified nil)) . -948) (365 . 366) (947 . 948) (364 . 365) (#(" " 0 1 (fontified nil)) . 364) (354 . 947) (#(" " 0 1 (fontified nil)) . 354) (81 . 355) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   (quote
+    (company-tabnine company-lsp prettier format-all multiple-cursors evil-commentary undo-tree company web-mode tide company-tern company-quickhelp helm-xref projectile helm-lsp dap-mode yasnippet flycheck json-mode lsp-treemacs lsp-ivy lsp-ui lsp-mode tern-context-coloring tern-auto-complete tern company-mode flymake-eslint eslint-fix js2-mode typescript-mode markdown-mode lua-mode which-key vterm use-package peep-dired ivy-rich general gcmh evil-tutor evil-collection eshell-syntax-highlighting doom-themes doom-modeline dired-open dashboard counsel all-the-icons-dired))))" 0 864 (fontified nil)) . -81) (t 25309 63676 77514 2000)) nil (25309 64330 428917 654000) 0 nil])
+([nil nil ((959 . 1198) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -959) (956 . 958) (366 . 369) (#("
+" 0 1 (fontified nil)) . -953) (365 . 366) (952 . 953) (364 . 365) (#(" " 0 1 (fontified nil)) . 364) (354 . 952) (#(" " 0 1 (fontified nil)) . 354) (81 . 355) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   (quote
+    (origami company-tabnine company-lsp prettier format-all multiple-cursors evil-commentary undo-tree company web-mode tide company-tern company-quickhelp helm-xref projectile helm-lsp dap-mode yasnippet flycheck json-mode lsp-treemacs lsp-ivy lsp-ui lsp-mode tern-context-coloring tern-auto-complete tern company-mode flymake-eslint eslint-fix js2-mode typescript-mode markdown-mode lua-mode which-key vterm use-package peep-dired ivy-rich general gcmh evil-tutor evil-collection eshell-syntax-highlighting doom-themes doom-modeline dired-open dashboard counsel all-the-icons-dired))))" 0 872 (fontified nil)) . -81) (t 25309 64330 435174 94000)) nil (25309 64339 250061 413000) 0 nil])
+([nil nil ((966 . 1205) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -966) (963 . 965) (366 . 369) (#("
+" 0 1 (fontified nil)) . -960) (365 . 366) (959 . 960) (364 . 365) (#(" " 0 1 (fontified nil)) . 364) (354 . 959) (#(" " 0 1 (fontified nil)) . 354) (81 . 355) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   (quote
+    (evil origami company-tabnine company-lsp prettier format-all multiple-cursors evil-commentary undo-tree company web-mode tide company-tern company-quickhelp helm-xref projectile helm-lsp dap-mode yasnippet flycheck json-mode lsp-treemacs lsp-ivy lsp-ui lsp-mode tern-context-coloring tern-auto-complete tern company-mode flymake-eslint eslint-fix js2-mode typescript-mode markdown-mode lua-mode which-key vterm use-package peep-dired ivy-rich general gcmh evil-tutor evil-collection eshell-syntax-highlighting doom-themes doom-modeline dired-open dashboard counsel all-the-icons-dired))))" 0 877 (fontified nil)) . -81) (t 25309 64339 256505 999000)) nil (25309 64415 998196 75000) 0 nil])
+([nil nil ((966 . 1205) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -966) (963 . 965) (366 . 369) (#("
+" 0 1 (fontified nil)) . -960) (365 . 366) (959 . 960) (364 . 365) (#(" " 0 1 (fontified nil)) . 364) (354 . 959) (#(" " 0 1 (fontified nil)) . 354) (81 . 355) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   (quote
+    (swiper evil origami company-tabnine company-lsp prettier format-all multiple-cursors evil-commentary undo-tree company web-mode tide company-tern company-quickhelp helm-xref projectile helm-lsp dap-mode yasnippet flycheck json-mode lsp-treemacs lsp-ivy lsp-ui lsp-mode tern-context-coloring tern-auto-complete tern company-mode flymake-eslint eslint-fix js2-mode typescript-mode markdown-mode lua-mode which-key vterm use-package peep-dired ivy-rich general gcmh evil-tutor evil-collection eshell-syntax-highlighting doom-themes doom-modeline dired-open dashboard counsel all-the-icons-dired))))" 0 884 (fontified nil)) . -81) (t 25309 64416 1349 723000)) nil (25312 20912 632233 51000) 0 nil])
+([nil current ((966 . 1205) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -966) (963 . 965) (366 . 369) (#("
+" 0 1 (fontified nil)) . -960) (365 . 366) (959 . 960) (364 . 365) (#(" " 0 1 (fontified nil)) . 364) (354 . 959) (#(" " 0 1 (fontified nil)) . 354) (81 . 355) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   (quote
+    (swiper evil origami company-tabnine company-lsp prettier format-all multiple-cursors evil-commentary undo-tree company web-mode tide company-tern company-quickhelp helm-xref projectile helm-lsp dap-mode yasnippet flycheck json-mode lsp-treemacs lsp-ivy lsp-ui lsp-mode tern-context-coloring tern-auto-complete tern company-mode flymake-eslint eslint-fix js2-mode typescript-mode markdown-mode lua-mode which-key vterm use-package peep-dired ivy-rich general gcmh evil-tutor evil-collection eshell-syntax-highlighting doom-themes doom-modeline dired-open dashboard counsel all-the-icons-dired))))" 0 884 (fontified nil)) . -81) (t 25312 20912 632071 897000)) nil (25312 21092 215701 671000) 0 nil])
+nil
